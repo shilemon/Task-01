@@ -55,6 +55,7 @@ Application successfully containerized and deployed.
 
 <img width="1918" height="888" alt="Screenshot 2026-02-12 124236" src="https://github.com/user-attachments/assets/df9f0687-d405-4577-be2d-29a9ca552d92" />
 
-![Uploading Screenshot 2026-02-12 124031.png…]()
+<img width="1915" height="957" alt="Screenshot 2026-02-12 124031" src="https://github.com/user-attachments/assets/ed2c214f-5099-4af2-8af8-db4f553163e1" />
+
 
 
