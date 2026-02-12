@@ -50,8 +50,11 @@ http://localhost:3000
 ## ✅ Status
 
 Application successfully containerized and deployed.
-![alt text](<Screenshot 2026-02-12 124046.png>)
 
-![alt text](image.png)
+<img width="1919" height="822" alt="Screenshot 2026-02-12 124046" src="https://github.com/user-attachments/assets/4cd694dc-1be4-42c5-8f69-f2ccdc649941" />
 
-![alt text](<Screenshot 2026-02-12 124031.png>)
+<img width="1918" height="888" alt="Screenshot 2026-02-12 124236" src="https://github.com/user-attachments/assets/df9f0687-d405-4577-be2d-29a9ca552d92" />
+
+![Uploading Screenshot 2026-02-12 124031.png…]()
+
+
