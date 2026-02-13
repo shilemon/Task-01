@@ -55,6 +55,17 @@ Application successfully containerized and deployed.
 
 <img width="1918" height="888" alt="Screenshot 2026-02-12 124236" src="https://github.com/user-attachments/assets/df9f0687-d405-4577-be2d-29a9ca552d92" />
 
+====================== Task 02 =============================
+
+<img width="1869" height="805" alt="image" src="https://github.com/user-attachments/assets/7cbbba1e-ff1b-4070-be46-8d61d042d037" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/494b3900-5991-4520-9685-f9bd1f12aabb" />
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/a4c83ff4-4252-4e14-99da-581738532c13" />
+
+
+
+
+
+
 <img width="1915" height="957" alt="Screenshot 2026-02-12 124031" src="https://github.com/user-attachments/assets/ed2c214f-5099-4af2-8af8-db4f553163e1" />
 
 
